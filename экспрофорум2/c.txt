@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+}
+
+.fon-one{
+  background-image: url(bgc.png);
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.shapka-block-one {
+
+  display: flex;
+}
+
+#shapka-block-one-logo-id {
+  position: relative;
+  width: 175.27px;
+  height: 24px;
+  top: 33px;
+}

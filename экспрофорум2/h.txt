@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- css -->
+    <link rel="stylesheet" href="style.css">
+    <title>Экспофорум</title>
+</head>
+
+<body>
+    <div class="fon-one">
+        <div class="container">
+            <div class="shapka-block-one">
+                <img src="logo 1.png" alt="" id="shapka-block-one-logo-id">
+
+                <p id="shapka-block-one-text">О комплексе</p>
+                <p id="shapka-block-one-text">О компании</p>
+                <p id="shapka-block-one-text">Новости</p>
+                <p id="shapka-block-one-text">Медиа-банк</p>
+                <p id="shapka-block-one-text">Контакты</p>
+
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
